@@ -1,2 +1,2 @@
 # java-simple-rest-server
-Simple REST server pritten in java and povered with Maven
+Simple REST server written in java and povered with Maven
