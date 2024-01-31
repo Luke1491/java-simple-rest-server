@@ -9,5 +9,9 @@ public class App {
         get("/hello/:name", (req,res)->{
             return "Hello, "+ req.params(":name");
         });
+
+        get("/health", (req, res)->"OK");
+
+        
     }
 }
